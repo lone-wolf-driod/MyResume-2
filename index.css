@@ -1,0 +1,68 @@
+.profile{
+    padding: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    border: 10px solid rgb(252, 252, 213);
+    background-color: rgb(85, 244, 244);
+    position: relative;
+}
+.profile > .image{
+    margin-top: 10px;
+    margin-left: 10px;
+    position: relative;
+}
+div{
+    display: block;
+}
+h3{
+    display: inline
+}
+body {
+    padding: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    border: 10px solid hsl(33, 96%, 50%);
+    color: #2d3d3a;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.EDUCATION{
+    padding: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    border: 10px solid beige;
+    background-color: rgb(212, 190, 232);
+}
+.projects{
+    padding: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    border: 10px solid beige;
+    background-color: rgb(85, 246, 203);
+    text-shadow: 20px;
+}
+.Certificates{
+    padding: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    border: 10px solid beige;
+    background-color: rgb(245, 212, 130);
+}
+.EXPERIENCE{
+    padding: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    border: 10px solid beige;
+    background-color: rgb(243, 165, 243);
+}
+.languages{
+    padding: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    border: 10px solid beige;
+    background-color: honeydew;
+}
+h1{
+    padding: 1cap;
+}
